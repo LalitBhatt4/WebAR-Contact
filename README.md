@@ -1,2 +1,7 @@
 # WebAR-Contact
-Augmented reality project built with Unity and Vuforia SDK.
+This project is aimed to provide contact details via a qr-code in an augmented reality environment. 
+
+- Marker based augmented reality project built on Unity with Vuforia SDK.
+- Deployed on web for easier access and usability.
+
+Scan the qr-code on my resume to test the project!
